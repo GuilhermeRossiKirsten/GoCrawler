@@ -1,4 +1,4 @@
-package normalize_url_test
+package util_test
 
 import (
 	"testing"
